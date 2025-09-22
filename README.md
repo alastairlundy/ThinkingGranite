@@ -1,1 +1,1 @@
-# granite3.3-reasoning
+# ThinkingGranite
