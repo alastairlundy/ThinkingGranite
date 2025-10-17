@@ -1,0 +1,17 @@
+This model is part of the Granite family of foundation models developed by International Business Machines Corporation (IBM).
+
+"GRANITE" is a registered trademark of International Business Machines Corporation (IBM) in the United States and/or other countries. Use of the Granite name in derivative works must not imply IBM authorship, endorsement, or affiliation unless explicitly stated.
+
+License: Apache License, Version 2.0
+
+You may use, modify, and distribute this model in accordance with the terms of that license.
+
+To help others understand your model’s lineage:
+
+- If you create and distribute a derivative of a Granite model, as a best practice, start the new model’s name with your identity, then a descriptor of your derivative model, and finishing with the full name of the Granite model (e.g. acme/reasoning/Granite-3.3.8B-Instruct). 
+
+- Include the full model name (e.g., Granite-3.3-8B-Instruct) in documentation or metadata.
+
+- Avoid using "Granite" alone in your project title to prevent confusion with official IBM releases.
+
+For more information about the Granite model family, visit: https://www.ibm.com/granite or https://huggingface.co/ibm-granite
