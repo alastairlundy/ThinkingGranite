@@ -80,12 +80,12 @@ Loop over messages and look for a user-provided system message and documents
 If no user message provided, build the default system message
 */ -}}
 {{- if eq $system "" }}
-    {{- $system = "Knowledge Cutoff Date: April 2024.\nYou are ThinkingGranite, based on the Granite model (by IBM)."}}
+    {{- $system = "Knowledge Cutoff Date: April 2024.\nYou are AlastairLundy/Thinking/Granite3.3, based on the Granite 3.3 model (by IBM)."}}
 
 
     {{- /* Add Tools prompt */}}
     {{- if .Tools }}
-        {{- $system = print $system " You are a helpful assistant with access to the following tools. When a tool is required to answer the user's query, respond only with <|tool_call|> followed by a JSON list of tools used. If a tool does not exist in the provided list of tools, notify the user that you do not have the ability to fulfill the request." }}
+        {{- $system = print $system "You are a helpful AI assistant with access to the following tools. When a tool is required to answer the user's query, respond only with <|tool_call|> followed by a JSON list of tools used. If a tool does not exist in the provided list of tools, notify the user that you do not have the ability to fulfill the request." }}
     {{- end}}
 
     {{- /* Add documents prompt */}}
