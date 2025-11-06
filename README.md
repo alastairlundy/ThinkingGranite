@@ -1,7 +1,7 @@
 # Thinking/Granite
  A customized version of Granite 3.3 with Reasoning always Enabled. 
 
- It's a Work In Progress so please be forgiving of some mistakes
+ This project is a work in progress and there may be some issues. If you encounter an error, [check existing issues](https://github.com/alastairlundy/ThinkingGranite/issues/) before [opening a new issue](https://github.com/alastairlundy/ThinkingGranite/issues/new) .
 
 **Disclaimer:** AI and/or Language Models may produce offensive or inaccurate results. Use at your own risk.
  
