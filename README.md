@@ -16,6 +16,9 @@ It comes in 2 versions:
 
 It is not affiliated with IBM or the Official Granite family of models.
 
+#### Links to get Thinking/Granite3.3
+* [Ollama](https://ollama.com/alastairlundy/Thinking-Granite3.3)
+
 For more information please see [NOTICE.txt](https://github.com/alastairlundy/ThinkingGranite/blob/main/NOTICE.txt)
 
 ## Licenses
