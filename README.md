@@ -1,5 +1,5 @@
 # Thinking/Granite
- The Granite can think! A customized version of Granite 3.3 with Reasoning Always Enabled. 
+ A customized version of Granite 3.3 with Reasoning always Enabled. 
 
  It's a Work In Progress so please be forgiving of some mistakes
 
